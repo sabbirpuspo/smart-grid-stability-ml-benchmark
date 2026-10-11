@@ -1,0 +1,14 @@
+# Smart Grid Stability ML Benchmark
+
+Reproducible machine-learning experiments for
+electrical grid stability prediction.
+
+## Dataset
+
+The dataset used in this project is the
+Smart Grid Stability dataset from Kaggle.
+
+## Environment
+
+Experiments are developed using Python
+and Google Colab.
